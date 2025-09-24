@@ -97,20 +97,27 @@ Here's a quick look at where you can find each key concept implemented in the co
   SCREENSHOT OF THE PROGRAM:
   Main menu of the program
   <img width="515" height="245" alt="image" src="https://github.com/user-attachments/assets/c345bd70-d2fc-4332-a2dc-4843f0dbceae" />
+  
   student management
   <img width="500" height="230" alt="image" src="https://github.com/user-attachments/assets/0de16b13-79e4-4b84-9782-9c49ffd13444" />
+  
   add new student
   <img width="406" height="189" alt="image" src="https://github.com/user-attachments/assets/f3fddd9d-b347-4d72-9602-ff6de23be83c" />
+  
   view all students
   <img width="1048" height="69" alt="image" src="https://github.com/user-attachments/assets/46404ec0-377c-484a-9649-853aab5370b9" />
   view student details
   <img width="1074" height="161" alt="image" src="https://github.com/user-attachments/assets/63756bda-9d92-47be-88d6-aa723c43f89a" />
+  
   update student
   <img width="1227" height="163" alt="image" src="https://github.com/user-attachments/assets/1ed45b9b-ebf4-4b2c-be80-705b8839b449" />
+  
   deactivate student
   <img width="466" height="79" alt="image" src="https://github.com/user-attachments/assets/9618d7ac-e58b-43d7-a969-5006440f3080" />
+  
   generate student transcript
   <img width="413" height="400" alt="image" src="https://github.com/user-attachments/assets/58bd1b0f-98ee-4261-bc73-6cec0770c09f" />
+  
   course management
   <img width="439" height="212" alt="image" src="https://github.com/user-attachments/assets/cd041e43-036a-4fa2-863c-01c20c2cf369" />
   add new course
