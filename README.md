@@ -94,6 +94,13 @@ Here's a quick look at where you can find each key concept implemented in the co
 * Enums: Our enums like 'Semester.java' and 'Grade.java' provide type-safe constants with associated data and methods.
 * Recursion: You can see recursive directory traversal and operations in the 'utils/BackupUtils.java' file.
 
+  SCREENSHOT OF THE PROGRAM:
+  Main menu of the program 
+  <img width="663" height="247" alt="image" src="https://github.com/user-attachments/assets/b0669f86-7c81-4ab6-a230-049967ba15eb" />
+  
+
+  
+
 # Enabling Assertions
 
 To enable assertions, you just need to use the '-ea' flag when you run the Java application from the command line. This is super helpful for debugging and for internal consistency checks.
