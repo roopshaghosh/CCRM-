@@ -95,7 +95,9 @@ Here's a quick look at where you can find each key concept implemented in the co
 * Recursion: You can see recursive directory traversal and operations in the 'utils/BackupUtils.java' file.
 
   SCREENSHOT OF THE PROGRAM:
+  
   Main menu of the program
+  
   <img width="515" height="245" alt="image" src="https://github.com/user-attachments/assets/c345bd70-d2fc-4332-a2dc-4843f0dbceae" />
   
   student management
