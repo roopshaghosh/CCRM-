@@ -95,8 +95,109 @@ Here's a quick look at where you can find each key concept implemented in the co
 * Recursion: You can see recursive directory traversal and operations in the 'utils/BackupUtils.java' file.
 
   SCREENSHOT OF THE PROGRAM:
-  Main menu of the program 
-  <img width="663" height="247" alt="image" src="https://github.com/user-attachments/assets/b0669f86-7c81-4ab6-a230-049967ba15eb" />
+  Main menu of the program
+  <img width="515" height="245" alt="image" src="https://github.com/user-attachments/assets/c345bd70-d2fc-4332-a2dc-4843f0dbceae" />
+  student management
+  <img width="500" height="230" alt="image" src="https://github.com/user-attachments/assets/0de16b13-79e4-4b84-9782-9c49ffd13444" />
+  add new student
+  <img width="406" height="189" alt="image" src="https://github.com/user-attachments/assets/f3fddd9d-b347-4d72-9602-ff6de23be83c" />
+  view all students
+  <img width="1048" height="69" alt="image" src="https://github.com/user-attachments/assets/46404ec0-377c-484a-9649-853aab5370b9" />
+  view student details
+  <img width="1074" height="161" alt="image" src="https://github.com/user-attachments/assets/63756bda-9d92-47be-88d6-aa723c43f89a" />
+  update student
+  <img width="1227" height="163" alt="image" src="https://github.com/user-attachments/assets/1ed45b9b-ebf4-4b2c-be80-705b8839b449" />
+  deactivate student
+  <img width="466" height="79" alt="image" src="https://github.com/user-attachments/assets/9618d7ac-e58b-43d7-a969-5006440f3080" />
+  generate student transcript
+  <img width="413" height="400" alt="image" src="https://github.com/user-attachments/assets/58bd1b0f-98ee-4261-bc73-6cec0770c09f" />
+  course management
+  <img width="439" height="212" alt="image" src="https://github.com/user-attachments/assets/cd041e43-036a-4fa2-863c-01c20c2cf369" />
+  add new course
+  <img width="693" height="581" alt="image" src="https://github.com/user-attachments/assets/e9d92ddc-ef53-428a-bb98-fbca5c8364d4" />
+  view all courses
+  <img width="1289" height="97" alt="image" src="https://github.com/user-attachments/assets/842c3e10-5f03-411d-87e6-2d65b3b40517" />
+  course details
+  <img width="1305" height="89" alt="image" src="https://github.com/user-attachments/assets/e73e5ba4-ae7c-4c59-b57c-9adeb47cb898" />
+  update course
+  <img width="1362" height="171" alt="image" src="https://github.com/user-attachments/assets/f7dc46c9-ba78-4009-9a75-733e67817da7" />
+  deactivate course
+  <img width="562" height="79" alt="image" src="https://github.com/user-attachments/assets/bde71147-6638-417c-ad5d-7473815a213f" />
+  search courses by department
+  <img width="1197" height="368" alt="image" src="https://github.com/user-attachments/assets/2c01007c-7a2c-4ec8-a58e-c54ed404772f" />
+  search courses by semester
+  <img width="1210" height="215" alt="image" src="https://github.com/user-attachments/assets/321752bf-a5ed-4193-bf83-f7bea62dc97d" />
+  enrollment and grading
+  <img width="378" height="190" alt="image" src="https://github.com/user-attachments/assets/b9e5799d-664f-4e77-afe0-006b162a604c" />
+  enroll student in course
+  <img width="778" height="112" alt="image" src="https://github.com/user-attachments/assets/b052da12-79c2-44fb-b4d9-b7b3d07ba50b" />
+  view student enrollments
+  <img width="534" height="113" alt="image" src="https://github.com/user-attachments/assets/fd919860-1d42-493c-9e5a-50a9a0a5ed60" />
+  calculate student GPA
+  <img width="435" height="150" alt="image" src="https://github.com/user-attachments/assets/8a16b7b4-5470-467f-8db3-3719b2109d56" />
+  file operations
+  <img width="418" height="225" alt="image" src="https://github.com/user-attachments/assets/0cb35ba7-8be0-43ba-b16d-8738bc47e4c7" />
+  export students to CSV
+  <img width="496" height="53" alt="image" src="https://github.com/user-attachments/assets/d9f966d6-febe-466c-b34b-84d920314e75" />
+  export courses to CSV
+  <img width="585" height="51" alt="image" src="https://github.com/user-attachments/assets/30c474d9-1af9-4e15-b159-25c8ea62a83c" />
+  export enrollments to CSV
+  <img width="563" height="50" alt="image" src="https://github.com/user-attachments/assets/ebc2013c-6afc-49cb-b793-407d43e70cd9" />
+  system reports
+  <img width="396" height="142" alt="image" src="https://github.com/user-attachments/assets/de227bec-426e-4d99-a6ec-f486158619b2" />
+  system statics
+  <img width="454" height="186" alt="image" src="https://github.com/user-attachments/assets/dd1300da-5385-48c4-a54d-a911e5f2e210" />
+  GPA distribution reports
+  <img width="575" height="100" alt="image" src="https://github.com/user-attachments/assets/89583d94-00b4-4812-9b05-fc3bb64462f9" />
+  course enrollment statistics
+  <img width="564" height="96" alt="image" src="https://github.com/user-attachments/assets/c36ceac6-d406-4442-9f7b-2dad07895be0" />
+  department statistics
+  <img width="504" height="92" alt="image" src="https://github.com/user-attachments/assets/54d44eac-46aa-4b34-abd5-a82d74946674" />
+  backup operations
+  <img width="359" height="184" alt="image" src="https://github.com/user-attachments/assets/825b8b4d-ad46-432e-ae8f-a9e933bda203" />
+  create backup
+  <img width="747" height="59" alt="image" src="https://github.com/user-attachments/assets/10420d15-4b8a-434a-9f5c-f814dcab1c05" />
+  list backup files
+  <img width="657" height="151" alt="image" src="https://github.com/user-attachments/assets/3c652cc1-790f-49c1-b943-c77b9a5dc5c5" />
+  calculate backup size information
+  <img width="518" height="100" alt="image" src="https://github.com/user-attachments/assets/0a5c2ba5-cb6c-44ae-a48c-a019c3e4e66d" />
+  cleanup old backups
+  <img width="670" height="78" alt="image" src="https://github.com/user-attachments/assets/a53368d4-7d48-42ec-8844-6a68564126a7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
   
